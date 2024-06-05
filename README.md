@@ -1,4 +1,4 @@
-UFC Fighters' Statistics Dataset as of Feb. 2024.: https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics/data
+UFC Fighters' Statistics Dataset as of Feb. 2024: https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics/data
 
 1. Create Table
 2. Add a new column due to 2 fighters with the same name
