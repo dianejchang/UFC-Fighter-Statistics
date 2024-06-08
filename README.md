@@ -16,3 +16,5 @@ UFC Fighters' Statistics Dataset as of Feb. 2024: https://www.kaggle.com/dataset
 14. Identifying the fighters with the longest reach in each weight class
 15. Identifying the fighters with the shortest reach in each weight class
 16. Determining the most common stance in each weight class
+
+Ran on pgAdmin4
