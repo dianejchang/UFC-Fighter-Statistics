@@ -1,3 +1,5 @@
+Fun fact: One of my hobbies is fighting, so naturally I enjoy watching the UFC to pick up new skills and good habits. People always seem to be confused as to why I would build a project around this until they learn what I like to do in my free time~
+
 UFC Fighters' Statistics Dataset as of Feb. 2024: https://www.kaggle.com/datasets/asaniczka/ufc-fighters-statistics/data
 
 1. Create Table
